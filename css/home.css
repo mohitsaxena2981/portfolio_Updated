@@ -409,7 +409,7 @@ section .title::after{
 
 /* certifications section styling */
 .teams .title::after{
-    content: "Credentilas";
+    content: "Credentials";
 }
 .teams .carousel .card{
     background: #222;
